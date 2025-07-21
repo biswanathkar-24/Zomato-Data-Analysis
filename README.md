@@ -14,4 +14,4 @@
 6) Which type of restaurant received more offline orders, so that Zomato can customers with some good offers?
 
 
-## The data set is already provided. 
+## The data set is already provided. <a href="https://github.com/biswanathkar-24/Zomato-Data-Analysis/blob/main/Zomato%20data.csv"> Zomato Data Set</a>
